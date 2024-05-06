@@ -1,2 +1,2 @@
 # Data-Analyst-Projects
-Here are some of my projects which i did while i was Data Analyst inter at Bharat Software Solutions
+Here are some of my projects which i did while i was Data Analyst intern at Bharat Software Solutions
